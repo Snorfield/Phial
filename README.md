@@ -1,6 +1,8 @@
 ![Resurrect 32 Palette](underwater.png)
 # Phial
 
+https://modrinth.com/shader/phial
+
 Phial is a work-in-progess minecraft shader that aims to add several post-processing options to mimic pixel art.
 
 As of the latest version it has:
