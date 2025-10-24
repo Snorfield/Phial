@@ -1,0 +1,4 @@
+option.ditheringScale = Dithering Scale
+option.vignetteSize = Vignette Size
+option.pixelizationSize = Pixelization Size
+option.vignetteQuantization = Vignette Quantization
