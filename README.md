@@ -1,4 +1,6 @@
+![Resurrect 32 Palette](underwater.png)
 # Phial
+
 Phial is a work-in-progess minecraft shader that aims to add several post-processing options to mimic pixel art.
 
 As of the latest version it has:
@@ -10,6 +12,8 @@ As of the latest version it has:
 - Ordered dithering
 
 - Customizable vignette
+
+![Resurrect 32 Palette](sunset.png)
 
 ## Custom Palettes
 
@@ -25,3 +29,5 @@ https://snorfield.github.io/HEX-to-RGB/
 Once converted, you can simply open the `palette.glsl` file in a text editor such a notepad and replace the contents. Don't forget to save!
 
 All you need to do to see the changes is reload the shader.
+
+![SLSO8 Palette](end.png)
