@@ -8,7 +8,7 @@
 #define vignetteSize 0.2 // [0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1]
 // #define vignetteQuantization 
 #define Pixelization 
-#define pixelizationSize 250.0 // [30.0 40.0 50.0 60.0 70.0 80.0 90.0 100.0 150.0 200.0 250.0 300.0 350.0 400.0 450.0 500.0]
+#define pixelizationSize 250.0 // [30.0 40.0 50.0 60.0 70.0 80.0 90.0 100.0 150.0 200.0 250.0 300.0 350.0 400.0 450.0 500.0 550.0 600.0 650.0 750.0 1000.0]
 #define Quantization 
 
 uniform sampler2D colortex0;
